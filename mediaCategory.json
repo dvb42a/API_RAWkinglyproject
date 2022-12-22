@@ -1,0 +1,24 @@
+[
+    {
+        "kmc_id": 60,
+        "kmc_name": "文章圖片",
+        "kmc_position": "content_index_image",
+        "kmc_width": null,
+        "kmc_height": null,
+        "kmc_resize": 0,
+        "kmc_file_limited": 3,
+        "kmc_file_type": 1,
+        "media_count": 11
+    },
+    {
+        "kmc_id": 61,
+        "kmc_name": "文章首圖",
+        "kmc_position": "content_banner_image",
+        "kmc_width": 2048,
+        "kmc_height": 1152,
+        "kmc_resize": 3,
+        "kmc_file_limited": 2,
+        "kmc_file_type": 1,
+        "media_count": 6
+    }
+]

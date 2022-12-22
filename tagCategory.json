@@ -1,0 +1,192 @@
+[
+    {
+        "bp_category_id": 14,
+        "bp_category": "美容",
+        "tag": [
+            {
+                "bp_tag_id": 39,
+                "bp_hashtag": "除毛",
+                "laravel_through_key": 14
+            },
+            {
+                "bp_tag_id": 40,
+                "bp_hashtag": "拔毛",
+                "laravel_through_key": 14
+            },
+            {
+                "bp_tag_id": 41,
+                "bp_hashtag": "護唇",
+                "laravel_through_key": 14
+            },
+            {
+                "bp_tag_id": 42,
+                "bp_hashtag": "防曬",
+                "laravel_through_key": 14
+            },
+            {
+                "bp_tag_id": 43,
+                "bp_hashtag": "物理性防曬",
+                "laravel_through_key": 14
+            },
+            {
+                "bp_tag_id": 44,
+                "bp_hashtag": "化學性防曬",
+                "laravel_through_key": 14
+            },
+            {
+                "bp_tag_id": 45,
+                "bp_hashtag": "耳洞",
+                "laravel_through_key": 14
+            },
+            {
+                "bp_tag_id": 46,
+                "bp_hashtag": "屁股暗沉",
+                "laravel_through_key": 14
+            },
+            {
+                "bp_tag_id": 47,
+                "bp_hashtag": "微笑線暗沉",
+                "laravel_through_key": 14
+            }
+        ]
+    },
+    {
+        "bp_category_id": 15,
+        "bp_category": "膚質",
+        "tag": [
+            {
+                "bp_tag_id": 48,
+                "bp_hashtag": "敏感肌",
+                "laravel_through_key": 15
+            },
+            {
+                "bp_tag_id": 49,
+                "bp_hashtag": "乾性肌",
+                "laravel_through_key": 15
+            },
+            {
+                "bp_tag_id": 50,
+                "bp_hashtag": "油性肌",
+                "laravel_through_key": 15
+            },
+            {
+                "bp_tag_id": 51,
+                "bp_hashtag": "混合肌",
+                "laravel_through_key": 15
+            },
+            {
+                "bp_tag_id": 52,
+                "bp_hashtag": "中性肌",
+                "laravel_through_key": 15
+            }
+        ]
+    },
+    {
+        "bp_category_id": 16,
+        "bp_category": "痘痘",
+        "tag": [
+            {
+                "bp_tag_id": 54,
+                "bp_hashtag": "粉刺",
+                "laravel_through_key": 16
+            },
+            {
+                "bp_tag_id": 55,
+                "bp_hashtag": "丘疹型青春痘",
+                "laravel_through_key": 16
+            },
+            {
+                "bp_tag_id": 56,
+                "bp_hashtag": "粉刺型青春痘",
+                "laravel_through_key": 16
+            },
+            {
+                "bp_tag_id": 57,
+                "bp_hashtag": "膿皰型青春痘",
+                "laravel_through_key": 16
+            },
+            {
+                "bp_tag_id": 58,
+                "bp_hashtag": "結節型青春痘",
+                "laravel_through_key": 16
+            },
+            {
+                "bp_tag_id": 59,
+                "bp_hashtag": "屁股痘",
+                "laravel_through_key": 16
+            },
+            {
+                "bp_tag_id": 60,
+                "bp_hashtag": "痤瘡",
+                "laravel_through_key": 16
+            },
+            {
+                "bp_tag_id": 61,
+                "bp_hashtag": "疔瘡",
+                "laravel_through_key": 16
+            },
+            {
+                "bp_tag_id": 62,
+                "bp_hashtag": "毛囊炎",
+                "laravel_through_key": 16
+            },
+            {
+                "bp_tag_id": 63,
+                "bp_hashtag": "表皮囊腫",
+                "laravel_through_key": 16
+            },
+            {
+                "bp_tag_id": 64,
+                "bp_hashtag": "背痘",
+                "laravel_through_key": 16
+            }
+        ]
+    },
+    {
+        "bp_category_id": 17,
+        "bp_category": "器官",
+        "tag": [
+            {
+                "bp_tag_id": 65,
+                "bp_hashtag": "肛毛",
+                "laravel_through_key": 17
+            },
+            {
+                "bp_tag_id": 66,
+                "bp_hashtag": "嘴唇",
+                "laravel_through_key": 17
+            },
+            {
+                "bp_tag_id": 67,
+                "bp_hashtag": "蜜桃臀",
+                "laravel_through_key": 17
+            },
+            {
+                "bp_tag_id": 68,
+                "bp_hashtag": "膠原蛋白",
+                "laravel_through_key": 17
+            },
+            {
+                "bp_tag_id": 69,
+                "bp_hashtag": "屁股蛋",
+                "laravel_through_key": 17
+            },
+            {
+                "bp_tag_id": 70,
+                "bp_hashtag": "微笑線",
+                "laravel_through_key": 17
+            }
+        ]
+    },
+    {
+        "bp_category_id": 18,
+        "bp_category": "體毛",
+        "tag": [
+            {
+                "bp_tag_id": 84,
+                "bp_hashtag": "肛⽑",
+                "laravel_through_key": 18
+            }
+        ]
+    }
+]

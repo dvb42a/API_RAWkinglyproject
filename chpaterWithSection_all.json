@@ -1,0 +1,95 @@
+[
+    {
+        "bp_chapter_id": 1,
+        "bp_chapter_name": "皮膚科學",
+        "tag": [
+            {
+                "bp_tag_id": 63,
+                "bp_hashtag": "表皮囊腫",
+                "content_count": 0,
+                "laravel_through_key": 1
+            },
+            {
+                "bp_tag_id": 48,
+                "bp_hashtag": "敏感肌",
+                "content_count": 0,
+                "laravel_through_key": 1
+            },
+            {
+                "bp_tag_id": 52,
+                "bp_hashtag": "中性肌",
+                "content_count": 3,
+                "laravel_through_key": 1
+            },
+            {
+                "bp_tag_id": 39,
+                "bp_hashtag": "除毛",
+                "content_count": 0,
+                "laravel_through_key": 1
+            },
+            {
+                "bp_tag_id": 65,
+                "bp_hashtag": "肛毛",
+                "content_count": 0,
+                "laravel_through_key": 1
+            }
+        ]
+    },
+    {
+        "bp_chapter_id": 2,
+        "bp_chapter_name": "保養新知",
+        "tag": [
+            {
+                "bp_tag_id": 52,
+                "bp_hashtag": "中性肌",
+                "content_count": 3,
+                "laravel_through_key": 2
+            }
+        ]
+    },
+    {
+        "bp_chapter_id": 3,
+        "bp_chapter_name": "醫學美容",
+        "tag": [
+            {
+                "bp_tag_id": 43,
+                "bp_hashtag": "物理性防曬",
+                "content_count": 0,
+                "laravel_through_key": 3
+            },
+            {
+                "bp_tag_id": 44,
+                "bp_hashtag": "化學性防曬",
+                "content_count": 0,
+                "laravel_through_key": 3
+            },
+            {
+                "bp_tag_id": 39,
+                "bp_hashtag": "除毛",
+                "content_count": 0,
+                "laravel_through_key": 3
+            },
+            {
+                "bp_tag_id": 40,
+                "bp_hashtag": "拔毛",
+                "content_count": 0,
+                "laravel_through_key": 3
+            }
+        ]
+    },
+    {
+        "bp_chapter_id": 4,
+        "bp_chapter_name": null,
+        "tag": []
+    },
+    {
+        "bp_chapter_id": 5,
+        "bp_chapter_name": null,
+        "tag": []
+    },
+    {
+        "bp_chapter_id": 6,
+        "bp_chapter_name": null,
+        "tag": []
+    }
+]
