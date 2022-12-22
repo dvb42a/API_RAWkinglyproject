@@ -44,6 +44,30 @@
                 "bp_hashtag": "中性肌",
                 "content_count": 3,
                 "laravel_through_key": 2
+            },
+            {
+                "bp_tag_id": 55,
+                "bp_hashtag": "丘疹型青春痘",
+                "content_count": 0,
+                "laravel_through_key": 2
+            },
+            {
+                "bp_tag_id": 59,
+                "bp_hashtag": "屁股痘",
+                "content_count": 0,
+                "laravel_through_key": 2
+            },
+            {
+                "bp_tag_id": 64,
+                "bp_hashtag": "背痘",
+                "content_count": 0,
+                "laravel_through_key": 2
+            },
+            {
+                "bp_tag_id": 58,
+                "bp_hashtag": "結節型青春痘",
+                "content_count": 0,
+                "laravel_through_key": 2
             }
         ]
     },
