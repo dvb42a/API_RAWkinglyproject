@@ -50,7 +50,7 @@
         "kmc_width": null,
         "kmc_height": null,
         "kmc_resize": 0,
-        "kmc_file_limited": null,
+        "kmc_file_limited": 1,
         "kmc_file_type": 1,
         "media_count": 0
     }
