@@ -20,5 +20,38 @@
         "kmc_file_limited": 2,
         "kmc_file_type": 1,
         "media_count": 6
+    },
+    {
+        "kmc_id": 66,
+        "kmc_name": "課程圖片",
+        "kmc_position": "course_index_image",
+        "kmc_width": null,
+        "kmc_height": null,
+        "kmc_resize": 0,
+        "kmc_file_limited": 3,
+        "kmc_file_type": 1,
+        "media_count": 0
+    },
+    {
+        "kmc_id": 67,
+        "kmc_name": "課程首圖",
+        "kmc_position": "course_banner_image",
+        "kmc_width": 2048,
+        "kmc_height": 1152,
+        "kmc_resize": 3,
+        "kmc_file_limited": 2,
+        "kmc_file_type": 1,
+        "media_count": 0
+    },
+    {
+        "kmc_id": 68,
+        "kmc_name": "可愛的類別",
+        "kmc_position": "cute_image",
+        "kmc_width": null,
+        "kmc_height": null,
+        "kmc_resize": 0,
+        "kmc_file_limited": null,
+        "kmc_file_type": 1,
+        "media_count": 0
     }
 ]
