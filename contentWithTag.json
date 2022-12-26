@@ -1,0 +1,35 @@
+[
+    {
+        "bp_sh_id": 1,
+        "bp_subsection_id": 76,
+        "bp_tag_id": 61,
+        "hashtag": [
+            {
+                "bp_tag_id": 61,
+                "bp_hashtag": "疔瘡"
+            }
+        ]
+    },
+    {
+        "bp_sh_id": 2,
+        "bp_subsection_id": 76,
+        "bp_tag_id": 52,
+        "hashtag": [
+            {
+                "bp_tag_id": 52,
+                "bp_hashtag": "中性肌"
+            }
+        ]
+    },
+    {
+        "bp_sh_id": 3,
+        "bp_subsection_id": 76,
+        "bp_tag_id": 42,
+        "hashtag": [
+            {
+                "bp_tag_id": 42,
+                "bp_hashtag": "防曬"
+            }
+        ]
+    }
+]
