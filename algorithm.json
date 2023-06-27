@@ -1,22 +1,6 @@
 {
     "users": [
         {
-            "id": 119,
-            "inspection": null
-        },
-        {
-            "id": 22,
-            "inspection": null
-        },
-        {
-            "id": 250,
-            "inspection": null
-        },
-        {
-            "id": 55,
-            "inspection": null
-        },
-        {
             "id": 288,
             "inspection": {
                 "bmni_id": 228,
@@ -59,10 +43,6 @@
                 "acne": 2.25,
                 "waterOil": 7
             }
-        },
-        {
-            "id": 196,
-            "inspection": null
         },
         {
             "id": 145,
@@ -109,22 +89,6 @@
             }
         },
         {
-            "id": 120,
-            "inspection": null
-        },
-        {
-            "id": 90,
-            "inspection": null
-        },
-        {
-            "id": 220,
-            "inspection": null
-        },
-        {
-            "id": 138,
-            "inspection": null
-        },
-        {
             "id": 12,
             "inspection": {
                 "bmni_id": 223,
@@ -167,62 +131,6 @@
                 "acne": 1.5,
                 "waterOil": 3
             }
-        },
-        {
-            "id": 159,
-            "inspection": null
-        },
-        {
-            "id": 246,
-            "inspection": null
-        },
-        {
-            "id": 92,
-            "inspection": null
-        },
-        {
-            "id": 38,
-            "inspection": null
-        },
-        {
-            "id": 15,
-            "inspection": null
-        },
-        {
-            "id": 206,
-            "inspection": null
-        },
-        {
-            "id": 167,
-            "inspection": null
-        },
-        {
-            "id": 153,
-            "inspection": null
-        },
-        {
-            "id": 202,
-            "inspection": null
-        },
-        {
-            "id": 56,
-            "inspection": null
-        },
-        {
-            "id": 191,
-            "inspection": null
-        },
-        {
-            "id": 71,
-            "inspection": null
-        },
-        {
-            "id": 70,
-            "inspection": null
-        },
-        {
-            "id": 113,
-            "inspection": null
         },
         {
             "id": 259,
@@ -269,30 +177,6 @@
             }
         },
         {
-            "id": 165,
-            "inspection": null
-        },
-        {
-            "id": 148,
-            "inspection": null
-        },
-        {
-            "id": 310,
-            "inspection": null
-        },
-        {
-            "id": 89,
-            "inspection": null
-        },
-        {
-            "id": 195,
-            "inspection": null
-        },
-        {
-            "id": 124,
-            "inspection": null
-        },
-        {
             "id": 296,
             "inspection": {
                 "bmni_id": 193,
@@ -335,34 +219,6 @@
                 "acne": 2.25,
                 "waterOil": 7
             }
-        },
-        {
-            "id": 155,
-            "inspection": null
-        },
-        {
-            "id": 235,
-            "inspection": null
-        },
-        {
-            "id": 276,
-            "inspection": null
-        },
-        {
-            "id": 277,
-            "inspection": null
-        },
-        {
-            "id": 290,
-            "inspection": null
-        },
-        {
-            "id": 252,
-            "inspection": null
-        },
-        {
-            "id": 95,
-            "inspection": null
         },
         {
             "id": 186,
@@ -453,10 +309,6 @@
             }
         },
         {
-            "id": 260,
-            "inspection": null
-        },
-        {
             "id": 11,
             "inspection": {
                 "bmni_id": 239,
@@ -499,10 +351,6 @@
                 "acne": 2.75,
                 "waterOil": 16
             }
-        },
-        {
-            "id": 267,
-            "inspection": null
         },
         {
             "id": 287,
@@ -549,22 +397,6 @@
             }
         },
         {
-            "id": 142,
-            "inspection": null
-        },
-        {
-            "id": 265,
-            "inspection": null
-        },
-        {
-            "id": 135,
-            "inspection": null
-        },
-        {
-            "id": 187,
-            "inspection": null
-        },
-        {
             "id": 204,
             "inspection": {
                 "bmni_id": 218,
@@ -607,14 +439,6 @@
                 "acne": 2,
                 "waterOil": 16
             }
-        },
-        {
-            "id": 314,
-            "inspection": null
-        },
-        {
-            "id": 76,
-            "inspection": null
         },
         {
             "id": 271,
@@ -661,66 +485,6 @@
             }
         },
         {
-            "id": 141,
-            "inspection": null
-        },
-        {
-            "id": 57,
-            "inspection": null
-        },
-        {
-            "id": 256,
-            "inspection": null
-        },
-        {
-            "id": 170,
-            "inspection": null
-        },
-        {
-            "id": 163,
-            "inspection": null
-        },
-        {
-            "id": 164,
-            "inspection": null
-        },
-        {
-            "id": 217,
-            "inspection": null
-        },
-        {
-            "id": 182,
-            "inspection": null
-        },
-        {
-            "id": 263,
-            "inspection": null
-        },
-        {
-            "id": 112,
-            "inspection": null
-        },
-        {
-            "id": 88,
-            "inspection": null
-        },
-        {
-            "id": 311,
-            "inspection": null
-        },
-        {
-            "id": 279,
-            "inspection": null
-        },
-        {
-            "id": 29,
-            "inspection": null
-        },
-        {
-            "id": 62,
-            "inspection": null
-        },
-        {
             "id": 32,
             "inspection": {
                 "bmni_id": 183,
@@ -765,46 +529,6 @@
             }
         },
         {
-            "id": 68,
-            "inspection": null
-        },
-        {
-            "id": 199,
-            "inspection": null
-        },
-        {
-            "id": 43,
-            "inspection": null
-        },
-        {
-            "id": 198,
-            "inspection": null
-        },
-        {
-            "id": 181,
-            "inspection": null
-        },
-        {
-            "id": 99,
-            "inspection": null
-        },
-        {
-            "id": 86,
-            "inspection": null
-        },
-        {
-            "id": 82,
-            "inspection": null
-        },
-        {
-            "id": 278,
-            "inspection": null
-        },
-        {
-            "id": 258,
-            "inspection": null
-        },
-        {
             "id": 225,
             "inspection": {
                 "bmni_id": 236,
@@ -847,14 +571,6 @@
                 "acne": 1.5,
                 "waterOil": 3
             }
-        },
-        {
-            "id": 114,
-            "inspection": null
-        },
-        {
-            "id": 177,
-            "inspection": null
         },
         {
             "id": 184,
@@ -989,38 +705,6 @@
             }
         },
         {
-            "id": 139,
-            "inspection": null
-        },
-        {
-            "id": 188,
-            "inspection": null
-        },
-        {
-            "id": 17,
-            "inspection": null
-        },
-        {
-            "id": 34,
-            "inspection": null
-        },
-        {
-            "id": 147,
-            "inspection": null
-        },
-        {
-            "id": 264,
-            "inspection": null
-        },
-        {
-            "id": 36,
-            "inspection": null
-        },
-        {
-            "id": 192,
-            "inspection": null
-        },
-        {
             "id": 306,
             "inspection": {
                 "bmni_id": 231,
@@ -1063,14 +747,6 @@
                 "acne": 2,
                 "waterOil": 2
             }
-        },
-        {
-            "id": 24,
-            "inspection": null
-        },
-        {
-            "id": 289,
-            "inspection": null
         },
         {
             "id": 128,
@@ -1117,30 +793,6 @@
             }
         },
         {
-            "id": 194,
-            "inspection": null
-        },
-        {
-            "id": 228,
-            "inspection": null
-        },
-        {
-            "id": 47,
-            "inspection": null
-        },
-        {
-            "id": 176,
-            "inspection": null
-        },
-        {
-            "id": 77,
-            "inspection": null
-        },
-        {
-            "id": 98,
-            "inspection": null
-        },
-        {
             "id": 83,
             "inspection": {
                 "bmni_id": 196,
@@ -1183,34 +835,6 @@
                 "acne": 3,
                 "waterOil": 10
             }
-        },
-        {
-            "id": 261,
-            "inspection": null
-        },
-        {
-            "id": 60,
-            "inspection": null
-        },
-        {
-            "id": 242,
-            "inspection": null
-        },
-        {
-            "id": 280,
-            "inspection": null
-        },
-        {
-            "id": 14,
-            "inspection": null
-        },
-        {
-            "id": 127,
-            "inspection": null
-        },
-        {
-            "id": 108,
-            "inspection": null
         },
         {
             "id": 39,
@@ -1257,22 +881,6 @@
             }
         },
         {
-            "id": 302,
-            "inspection": null
-        },
-        {
-            "id": 236,
-            "inspection": null
-        },
-        {
-            "id": 284,
-            "inspection": null
-        },
-        {
-            "id": 143,
-            "inspection": null
-        },
-        {
             "id": 74,
             "inspection": {
                 "bmni_id": 200,
@@ -1317,10 +925,6 @@
             }
         },
         {
-            "id": 161,
-            "inspection": null
-        },
-        {
             "id": 183,
             "inspection": {
                 "bmni_id": 203,
@@ -1363,14 +967,6 @@
                 "acne": 1.5,
                 "waterOil": 11
             }
-        },
-        {
-            "id": 208,
-            "inspection": null
-        },
-        {
-            "id": 238,
-            "inspection": null
         },
         {
             "id": 212,
@@ -1461,14 +1057,6 @@
             }
         },
         {
-            "id": 40,
-            "inspection": null
-        },
-        {
-            "id": 150,
-            "inspection": null
-        },
-        {
             "id": 23,
             "inspection": {
                 "bmni_id": 184,
@@ -1513,14 +1101,6 @@
             }
         },
         {
-            "id": 61,
-            "inspection": null
-        },
-        {
-            "id": 160,
-            "inspection": null
-        },
-        {
             "id": 244,
             "inspection": {
                 "bmni_id": 225,
@@ -1563,26 +1143,6 @@
                 "acne": 1.5,
                 "waterOil": 9
             }
-        },
-        {
-            "id": 222,
-            "inspection": null
-        },
-        {
-            "id": 209,
-            "inspection": null
-        },
-        {
-            "id": 63,
-            "inspection": null
-        },
-        {
-            "id": 286,
-            "inspection": null
-        },
-        {
-            "id": 101,
-            "inspection": null
         },
         {
             "id": 130,
@@ -1673,26 +1233,6 @@
             }
         },
         {
-            "id": 282,
-            "inspection": null
-        },
-        {
-            "id": 134,
-            "inspection": null
-        },
-        {
-            "id": 239,
-            "inspection": null
-        },
-        {
-            "id": 285,
-            "inspection": null
-        },
-        {
-            "id": 66,
-            "inspection": null
-        },
-        {
             "id": 123,
             "inspection": {
                 "bmni_id": 208,
@@ -1735,34 +1275,6 @@
                 "acne": 2.25,
                 "waterOil": 14
             }
-        },
-        {
-            "id": 240,
-            "inspection": null
-        },
-        {
-            "id": 173,
-            "inspection": null
-        },
-        {
-            "id": 79,
-            "inspection": null
-        },
-        {
-            "id": 223,
-            "inspection": null
-        },
-        {
-            "id": 303,
-            "inspection": null
-        },
-        {
-            "id": 211,
-            "inspection": null
-        },
-        {
-            "id": 237,
-            "inspection": null
         },
         {
             "id": 144,
@@ -1809,10 +1321,6 @@
             }
         },
         {
-            "id": 84,
-            "inspection": null
-        },
-        {
             "id": 221,
             "inspection": {
                 "bmni_id": 220,
@@ -1855,14 +1363,6 @@
                 "acne": 0.5,
                 "waterOil": 8
             }
-        },
-        {
-            "id": 298,
-            "inspection": null
-        },
-        {
-            "id": 292,
-            "inspection": null
         },
         {
             "id": 91,
@@ -1909,10 +1409,6 @@
             }
         },
         {
-            "id": 162,
-            "inspection": null
-        },
-        {
             "id": 152,
             "inspection": {
                 "bmni_id": 247,
@@ -1957,42 +1453,6 @@
             }
         },
         {
-            "id": 42,
-            "inspection": null
-        },
-        {
-            "id": 78,
-            "inspection": null
-        },
-        {
-            "id": 231,
-            "inspection": null
-        },
-        {
-            "id": 97,
-            "inspection": null
-        },
-        {
-            "id": 129,
-            "inspection": null
-        },
-        {
-            "id": 106,
-            "inspection": null
-        },
-        {
-            "id": 64,
-            "inspection": null
-        },
-        {
-            "id": 203,
-            "inspection": null
-        },
-        {
-            "id": 85,
-            "inspection": null
-        },
-        {
             "id": 193,
             "inspection": {
                 "bmni_id": 227,
@@ -2035,14 +1495,6 @@
                 "acne": 2.25,
                 "waterOil": 12
             }
-        },
-        {
-            "id": 297,
-            "inspection": null
-        },
-        {
-            "id": 52,
-            "inspection": null
         },
         {
             "id": 122,
@@ -2133,46 +1585,6 @@
             }
         },
         {
-            "id": 45,
-            "inspection": null
-        },
-        {
-            "id": 232,
-            "inspection": null
-        },
-        {
-            "id": 166,
-            "inspection": null
-        },
-        {
-            "id": 251,
-            "inspection": null
-        },
-        {
-            "id": 185,
-            "inspection": null
-        },
-        {
-            "id": 213,
-            "inspection": null
-        },
-        {
-            "id": 291,
-            "inspection": null
-        },
-        {
-            "id": 175,
-            "inspection": null
-        },
-        {
-            "id": 281,
-            "inspection": null
-        },
-        {
-            "id": 146,
-            "inspection": null
-        },
-        {
             "id": 117,
             "inspection": {
                 "bmni_id": 191,
@@ -2215,38 +1627,6 @@
                 "acne": 2.5,
                 "waterOil": 18
             }
-        },
-        {
-            "id": 283,
-            "inspection": null
-        },
-        {
-            "id": 73,
-            "inspection": null
-        },
-        {
-            "id": 234,
-            "inspection": null
-        },
-        {
-            "id": 100,
-            "inspection": null
-        },
-        {
-            "id": 313,
-            "inspection": null
-        },
-        {
-            "id": 33,
-            "inspection": null
-        },
-        {
-            "id": 72,
-            "inspection": null
-        },
-        {
-            "id": 27,
-            "inspection": null
         },
         {
             "id": 168,
@@ -2293,14 +1673,6 @@
             }
         },
         {
-            "id": 58,
-            "inspection": null
-        },
-        {
-            "id": 227,
-            "inspection": null
-        },
-        {
             "id": 207,
             "inspection": {
                 "bmni_id": 233,
@@ -2345,18 +1717,6 @@
             }
         },
         {
-            "id": 75,
-            "inspection": null
-        },
-        {
-            "id": 248,
-            "inspection": null
-        },
-        {
-            "id": 107,
-            "inspection": null
-        },
-        {
             "id": 19,
             "inspection": {
                 "bmni_id": 211,
@@ -2399,18 +1759,6 @@
                 "acne": 1.75,
                 "waterOil": 8
             }
-        },
-        {
-            "id": 25,
-            "inspection": null
-        },
-        {
-            "id": 247,
-            "inspection": null
-        },
-        {
-            "id": 104,
-            "inspection": null
         },
         {
             "id": 200,
@@ -2501,42 +1849,6 @@
             }
         },
         {
-            "id": 308,
-            "inspection": null
-        },
-        {
-            "id": 305,
-            "inspection": null
-        },
-        {
-            "id": 131,
-            "inspection": null
-        },
-        {
-            "id": 44,
-            "inspection": null
-        },
-        {
-            "id": 37,
-            "inspection": null
-        },
-        {
-            "id": 253,
-            "inspection": null
-        },
-        {
-            "id": 121,
-            "inspection": null
-        },
-        {
-            "id": 205,
-            "inspection": null
-        },
-        {
-            "id": 219,
-            "inspection": null
-        },
-        {
             "id": 273,
             "inspection": {
                 "bmni_id": 187,
@@ -2579,18 +1891,6 @@
                 "acne": 1.75,
                 "waterOil": 12
             }
-        },
-        {
-            "id": 304,
-            "inspection": null
-        },
-        {
-            "id": 254,
-            "inspection": null
-        },
-        {
-            "id": 268,
-            "inspection": null
         },
         {
             "id": 28,
@@ -2637,18 +1937,6 @@
             }
         },
         {
-            "id": 59,
-            "inspection": null
-        },
-        {
-            "id": 197,
-            "inspection": null
-        },
-        {
-            "id": 190,
-            "inspection": null
-        },
-        {
             "id": 94,
             "inspection": {
                 "bmni_id": 198,
@@ -2691,38 +1979,6 @@
                 "acne": 2,
                 "waterOil": 9
             }
-        },
-        {
-            "id": 180,
-            "inspection": null
-        },
-        {
-            "id": 275,
-            "inspection": null
-        },
-        {
-            "id": 48,
-            "inspection": null
-        },
-        {
-            "id": 54,
-            "inspection": null
-        },
-        {
-            "id": 30,
-            "inspection": null
-        },
-        {
-            "id": 294,
-            "inspection": null
-        },
-        {
-            "id": 81,
-            "inspection": null
-        },
-        {
-            "id": 96,
-            "inspection": null
         },
         {
             "id": 226,
@@ -2857,22 +2113,6 @@
             }
         },
         {
-            "id": 262,
-            "inspection": null
-        },
-        {
-            "id": 20,
-            "inspection": null
-        },
-        {
-            "id": 31,
-            "inspection": null
-        },
-        {
-            "id": 214,
-            "inspection": null
-        },
-        {
             "id": 132,
             "inspection": {
                 "bmni_id": 186,
@@ -2915,14 +2155,6 @@
                 "acne": 2,
                 "waterOil": 3
             }
-        },
-        {
-            "id": 115,
-            "inspection": null
-        },
-        {
-            "id": 26,
-            "inspection": null
         },
         {
             "id": 174,
@@ -2969,50 +2201,6 @@
             }
         },
         {
-            "id": 272,
-            "inspection": null
-        },
-        {
-            "id": 293,
-            "inspection": null
-        },
-        {
-            "id": 299,
-            "inspection": null
-        },
-        {
-            "id": 300,
-            "inspection": null
-        },
-        {
-            "id": 295,
-            "inspection": null
-        },
-        {
-            "id": 274,
-            "inspection": null
-        },
-        {
-            "id": 255,
-            "inspection": null
-        },
-        {
-            "id": 157,
-            "inspection": null
-        },
-        {
-            "id": 312,
-            "inspection": null
-        },
-        {
-            "id": 151,
-            "inspection": null
-        },
-        {
-            "id": 210,
-            "inspection": null
-        },
-        {
             "id": 249,
             "inspection": {
                 "bmni_id": 201,
@@ -3055,42 +2243,6 @@
                 "acne": 1.75,
                 "waterOil": 16
             }
-        },
-        {
-            "id": 169,
-            "inspection": null
-        },
-        {
-            "id": 269,
-            "inspection": null
-        },
-        {
-            "id": 80,
-            "inspection": null
-        },
-        {
-            "id": 201,
-            "inspection": null
-        },
-        {
-            "id": 69,
-            "inspection": null
-        },
-        {
-            "id": 103,
-            "inspection": null
-        },
-        {
-            "id": 93,
-            "inspection": null
-        },
-        {
-            "id": 179,
-            "inspection": null
-        },
-        {
-            "id": 140,
-            "inspection": null
         },
         {
             "id": 224,
@@ -3181,46 +2333,6 @@
             }
         },
         {
-            "id": 126,
-            "inspection": null
-        },
-        {
-            "id": 178,
-            "inspection": null
-        },
-        {
-            "id": 189,
-            "inspection": null
-        },
-        {
-            "id": 243,
-            "inspection": null
-        },
-        {
-            "id": 50,
-            "inspection": null
-        },
-        {
-            "id": 111,
-            "inspection": null
-        },
-        {
-            "id": 109,
-            "inspection": null
-        },
-        {
-            "id": 266,
-            "inspection": null
-        },
-        {
-            "id": 215,
-            "inspection": null
-        },
-        {
-            "id": 158,
-            "inspection": null
-        },
-        {
             "id": 270,
             "inspection": {
                 "bmni_id": 237,
@@ -3263,10 +2375,6 @@
                 "acne": 2,
                 "waterOil": 11
             }
-        },
-        {
-            "id": 245,
-            "inspection": null
         },
         {
             "id": 102,
@@ -3357,18 +2465,6 @@
             }
         },
         {
-            "id": 87,
-            "inspection": null
-        },
-        {
-            "id": 21,
-            "inspection": null
-        },
-        {
-            "id": 35,
-            "inspection": null
-        },
-        {
             "id": 257,
             "inspection": {
                 "bmni_id": 246,
@@ -3411,26 +2507,6 @@
                 "acne": 2.25,
                 "waterOil": 18
             }
-        },
-        {
-            "id": 10,
-            "inspection": null
-        },
-        {
-            "id": 137,
-            "inspection": null
-        },
-        {
-            "id": 149,
-            "inspection": null
-        },
-        {
-            "id": 18,
-            "inspection": null
-        },
-        {
-            "id": 110,
-            "inspection": null
         },
         {
             "id": 154,
@@ -3477,26 +2553,6 @@
             }
         },
         {
-            "id": 307,
-            "inspection": null
-        },
-        {
-            "id": 218,
-            "inspection": null
-        },
-        {
-            "id": 51,
-            "inspection": null
-        },
-        {
-            "id": 105,
-            "inspection": null
-        },
-        {
-            "id": 136,
-            "inspection": null
-        },
-        {
             "id": 16,
             "inspection": {
                 "bmni_id": 248,
@@ -3541,46 +2597,6 @@
             }
         },
         {
-            "id": 216,
-            "inspection": null
-        },
-        {
-            "id": 118,
-            "inspection": null
-        },
-        {
-            "id": 301,
-            "inspection": null
-        },
-        {
-            "id": 229,
-            "inspection": null
-        },
-        {
-            "id": 116,
-            "inspection": null
-        },
-        {
-            "id": 233,
-            "inspection": null
-        },
-        {
-            "id": 65,
-            "inspection": null
-        },
-        {
-            "id": 41,
-            "inspection": null
-        },
-        {
-            "id": 46,
-            "inspection": null
-        },
-        {
-            "id": 13,
-            "inspection": null
-        },
-        {
             "id": 8,
             "inspection": {
                 "bmni_id": 202,
@@ -3623,10 +2639,6 @@
                 "acne": 2.75,
                 "waterOil": 9
             }
-        },
-        {
-            "id": 9,
-            "inspection": null
         }
     ]
 }
